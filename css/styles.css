@@ -17,6 +17,7 @@ span {
   color: #2e2f42;
 }
 .navigation {
+  color: #434455;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -95,6 +96,8 @@ span {
   background-color: #f4f4fd;
 }
 .our-portfolio {
+  text-transform: capitalize;
+  line-height: 1.11;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
