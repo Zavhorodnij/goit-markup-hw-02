@@ -13,7 +13,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logospan {
+span {
   color: #2e2f42;
 }
 .navigation {
@@ -38,4 +38,12 @@ body {
 }
 .mail:hover:focus {
   color: #404bbf;
+}
+.section1 {
+  background-color: #2e2f42;
+}
+
+.title {
+  font-size: 56px;
+  line-height: 1.07;
 }
