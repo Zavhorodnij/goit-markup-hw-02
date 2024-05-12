@@ -28,6 +28,8 @@ span {
 .navigation:focus {
   color: #404bbf;
 }
+
+/* address */
 .address {
   font-style: normal;
 }
@@ -42,8 +44,49 @@ span {
 .section1 {
   background-color: #2e2f42;
 }
-
+/* h1 */
 .title {
   font-size: 56px;
   line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+/* btn */
+.btn {
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer
+}
+.btn:hover {
+  background-color: #4d5ae5;
+}
+.btn:focus {#4d5ae5 }
+
+
+
+.title3 {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.list1 {
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
