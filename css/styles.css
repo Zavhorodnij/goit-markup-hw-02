@@ -55,38 +55,52 @@ span {
 
 /* btn */
 .btn {
-
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  cursor: pointer
+  cursor: pointer;
 }
 .btn:hover {
   background-color: #4d5ae5;
 }
-.btn:focus {#4d5ae5 }
-
-
-
-.title3 {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px; 
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+.btn:focus {
+  color: #4d5ae5;
 }
 
-.list1 {
+.title {
   font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px; 
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.list {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* section 3 */
+
+.our-team {
+  background-color: #f4f4fd;
+}
+.our-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
