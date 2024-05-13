@@ -70,7 +70,7 @@ span {
 .btn:focus {
   color: #4d5ae5;
 }
-
+/* section 2 */
 .title {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -95,16 +95,46 @@ span {
 .our-team {
   background-color: #f4f4fd;
 }
+.section-three_h-two {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.unordered-list {
+  background-color: #ffffff;
+}
+.title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.list {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 
 /* our portfolio */
-.section-4h3 {
+.section-four-tittle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section4-p {
+.section-four-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
