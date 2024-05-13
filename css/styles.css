@@ -17,7 +17,6 @@ span {
   color: #2e2f42;
 }
 .navigation {
-  color: #434455;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -35,6 +34,7 @@ span {
   font-style: normal;
 }
 .mail {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -42,7 +42,7 @@ span {
 .mail:hover:focus {
   color: #404bbf;
 }
-.section1 {
+.section-one {
   background-color: #2e2f42;
 }
 /* h1 */
@@ -56,6 +56,7 @@ span {
 
 /* btn */
 .btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -63,12 +64,13 @@ span {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-}
-.btn:hover {
   background-color: #4d5ae5;
 }
+.btn:hover {
+  background-color: #404bbf;
+}
 .btn:focus {
-  color: #4d5ae5;
+  background-color: #404bbf;
 }
 /* section 2 */
 .title {
@@ -127,6 +129,7 @@ span {
 }
 
 /* our portfolio */
+
 .section-four-tittle {
   font-weight: 500;
   font-size: 20px;
