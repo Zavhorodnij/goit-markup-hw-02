@@ -16,6 +16,8 @@ body {
 span {
   color: #2e2f42;
 }
+/* contacts  */
+
 .navigation {
   font-weight: 500;
   line-height: 1.5;
@@ -26,6 +28,12 @@ span {
   color: #404bbf;
 }
 .navigation:focus {
+  color: #404bbf;
+}
+.spc {
+  color: #2e2f42;
+}
+.spc :hover:focus {
   color: #404bbf;
 }
 
@@ -46,7 +54,7 @@ span {
   background-color: #2e2f42;
 }
 /* h1 */
-.title {
+.title-one {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -92,7 +100,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* section 3 */
+/* section 3 our team */
 
 .our-team {
   background-color: #f4f4fd;
