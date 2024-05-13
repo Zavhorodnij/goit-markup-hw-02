@@ -95,6 +95,22 @@ span {
 .our-team {
   background-color: #f4f4fd;
 }
+
+/* our portfolio */
+.section-4h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section4-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .our-portfolio {
   text-transform: capitalize;
   line-height: 1.11;
@@ -106,4 +122,28 @@ span {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+/* footer */
+
+.footer {
+  background-color: #2e2f42;
+}
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.span-footer {
+  color: #f4f4fd;
+}
+.footer-p {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
