@@ -29,10 +29,6 @@ span {
   color: #404bbf;
 }
 
-.navigation-href :hover:focus {
-  color: #404bbf;
-}
-
 /* address */
 .address {
   font-style: normal;
