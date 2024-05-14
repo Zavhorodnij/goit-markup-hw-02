@@ -25,10 +25,13 @@ span {
   color: #2e2f42;
 }
 
-.navigation-link:hover:focus {
+.navigation-link:hover {
   color: #404bbf;
 }
 
+.navigation-link:focus {
+  color: #404bbf;
+}
 /* address */
 .address {
   font-style: normal;
@@ -40,7 +43,10 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-contacts:hover:focus {
+.address-contacts:hover {
+  color: #404bbf;
+}
+.address-contacts:focus {
   color: #404bbf;
 }
 
