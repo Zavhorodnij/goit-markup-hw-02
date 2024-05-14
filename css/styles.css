@@ -25,7 +25,7 @@ span {
   color: #2e2f42;
 }
 
-.navigation-list.navigation-link:hover:focus {
+.navigation-link:hover:focus {
   color: #404bbf;
 }
 
@@ -57,10 +57,10 @@ span {
 
 /* btn */
 .btn:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .btn {
   font-family: "Roboto", sans-serif;
