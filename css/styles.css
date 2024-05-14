@@ -33,14 +33,15 @@ span {
 .address {
   font-style: normal;
 }
-.address-contacts:hover:focus {
-  color: #404bbf;
-}
+
 .address-contacts {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.address-contacts:hover:focus {
+  color: #404bbf;
 }
 
 .main-section {
