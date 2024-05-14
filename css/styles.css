@@ -53,6 +53,7 @@ span {
 .main-section {
   background-color: #2e2f42;
 }
+
 /* h1 */
 .main-tittle {
   font-size: 56px;
@@ -81,7 +82,7 @@ span {
   background-color: #4d5ae5;
 }
 
-/* section 2 */
+/* section 2 Features */
 .title {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -137,7 +138,7 @@ span {
   color: #434455;
 }
 
-/* our portfolio */
+/*section 4 our portfolio */
 .our-portfolio-main_tittle {
   text-transform: capitalize;
   line-height: 1.11;
