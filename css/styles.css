@@ -34,7 +34,7 @@ span {
   font-style: normal;
 }
 .address-contacts:hover:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .address-contacts {
   font-size: 16px;
